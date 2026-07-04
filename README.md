@@ -1,33 +1,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>UCCPocker — Dou Dizhu Desktop Client</title>
-  <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #24292f; max-width: 960px; margin: 0 auto; padding: 24px; background: #fff; }
-    h1, h2, h3 { line-height: 1.25; border-bottom: 1px solid #d0d7de; padding-bottom: 0.3em; }
-    h1 { font-size: 2em; border-bottom-width: 2px; }
-    h2 { font-size: 1.5em; margin-top: 2em; }
-    h3 { font-size: 1.15em; margin-top: 1.5em; border-bottom: none; }
-    code, pre { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 0.9em; }
-    pre { background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; overflow-x: auto; }
-    code { background: #f6f8fa; padding: 0.2em 0.4em; border-radius: 4px; }
-    pre code { background: none; padding: 0; }
-    table { border-collapse: collapse; width: 100%; margin: 1em 0; }
-    th, td { border: 1px solid #d0d7de; padding: 8px 12px; text-align: left; }
-    th { background: #f6f8fa; font-weight: 600; }
-    ul, ol { padding-left: 1.5em; }
-    li { margin: 0.35em 0; }
-    a { color: #0969da; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .badge { display: inline-block; background: #ddf4ff; color: #0969da; border: 1px solid #54aeff66; border-radius: 2em; padding: 0.15em 0.75em; font-size: 0.85em; margin-right: 0.35em; margin-bottom: 0.35em; }
-    .note { background: #fff8c5; border: 1px solid #d4a72c66; border-radius: 6px; padding: 12px 16px; margin: 1em 0; }
-    .warn { background: #ffebe9; border: 1px solid #ff818266; border-radius: 6px; padding: 12px 16px; margin: 1em 0; }
-    hr { border: none; border-top: 1px solid #d0d7de; margin: 2em 0; }
-  </style>
-</head>
 <body>
 
 <h1>UCCPocker</h1>
